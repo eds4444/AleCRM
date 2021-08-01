@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-08-01 13:53+0300\n"
+"PO-Revision-Date: 2021-08-01 14:17+0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n==0 || (n!=1 && n%100>=1 && n%100<=19) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: esc_html_e;esc_html__\n"
+"Last-Translator: \n"
+"Language: ro_MD\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: alecrm.php:21
+msgid "Welcome to plugin page"
+msgstr "Salut"
+
+#: alecrm.php:22
+msgid "AleCRM Options"
+msgstr "Salut"
+
+#: alecrm.php:43
+msgid "Hello"
+msgstr "Salut"
+
+#: alecrm.php:45
+msgid "First"
+msgstr "Salut"
